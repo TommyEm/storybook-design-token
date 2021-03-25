@@ -13,7 +13,9 @@
     "design tokens",
     "react",
     "angular",
-    "vue"
+    "vue",
+    "storybook-addon",
+    "style"
   ],
   "author": {
     "name": "Philipp Siekmann",
@@ -73,5 +75,8 @@
   },
   "resolutions": {
     "lodash": "4.17.13"
+  },
+  "storybook": {
+    "displayName": "Design Token"
   }
 }
